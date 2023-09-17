@@ -1,2 +1,2 @@
-# ED5340-Data-Science-Theory-and-Practice
+# ED5340-Linear Regression Best Fit Line
 Course codes
